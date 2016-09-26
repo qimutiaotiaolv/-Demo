@@ -1,0 +1,12 @@
+PODS:
+  - iOS-UMengMessage (1.2.5)
+
+DEPENDENCIES:
+  - iOS-UMengMessage (~> 1.2.5)
+
+SPEC CHECKSUMS:
+  iOS-UMengMessage: 36c8ec095cbfdcf76392531b850108a797857fb6
+
+PODFILE CHECKSUM: 9670a65698f092cdb4c8939ef3bfb5def743af64
+
+COCOAPODS: 1.0.0
